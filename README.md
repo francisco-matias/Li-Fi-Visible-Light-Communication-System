@@ -34,3 +34,4 @@ Each scheme was implemented and experimentally benchmarked in terms of:
 
 Full technical documentation available here:
 
+[visible-optical-communications.pdf](https://raw.githubusercontent.com/francisco-matias/Li-Fi-Visible-Light-Communication-System/9a4400d13eb55a7f9b5d8b741d96a1449778386e/Visible%20Optical%20Communications.pdf)
